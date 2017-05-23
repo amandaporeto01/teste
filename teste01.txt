@@ -1,7 +1,3 @@
 novos arquivos 01
 
-inserindo mais uma linha arquivo 01
-
-
-inserindo outra linha
-testando merge novamente
+inserindo mais uma linha arquivo
